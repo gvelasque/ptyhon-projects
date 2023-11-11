@@ -1,1 +1,1 @@
-# ptyhon-projects
+# python-projects
