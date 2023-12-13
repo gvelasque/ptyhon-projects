@@ -74,9 +74,10 @@ python projects/project_name.py
 ```
 
 # 📄 License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is licensed under the 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Feel free to explore, and be inspired! If you have any questions or want to connect, reach out to me on LinkedIn.
 
